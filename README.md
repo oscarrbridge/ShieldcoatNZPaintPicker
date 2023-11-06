@@ -1,4 +1,6 @@
 ﻿# PaintPickerv3
+*This is a demo and will not work for you*
+
 Shieldcoat NZ Paint picker program
 
 Requirements - 
